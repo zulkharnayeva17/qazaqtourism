@@ -1,0 +1,91 @@
+.navbar-brand img { width: 60px}
+.navbar-nav li {
+  padding-right: 20px;
+}
+.nav-link{
+  font-size: 1.1 em !important
+}
+
+.box {
+    height: 100vh;
+
+background-image: url(more.jpg);
+  background-position: center;
+    background-size: cover;
+    color: #FFFFFF;
+
+}
+p{
+  font-size: 20px;
+  margin-top: 2em;
+  margin-bottom: 1em;
+color: black;
+font-style: normal;
+font-weight: 100;
+font-family: monospace;
+}
+p1{
+  font-size: 30px;
+  color:white;
+margin-top: 100px;
+text-transform: uppercase;
+font-weight: bolder;
+
+
+hr{
+  border-style :inset;
+  background-color: black;
+  height: 2px;
+}
+h{
+  font-size: 30px;
+color:gray;
+font-weight: bold;
+}
+
+h1{
+    background-position: center;
+    letter-spacing: 5px;
+     padding: 80px;
+     text-transform: capitalize;
+     font-weight: bolder;
+    color: white;
+
+
+
+}
+h2{
+  font-weight: normal;
+  font-size: 10px;
+
+}
+p2{
+  color:#8f8f8f;
+}
+
+
+
+#features{
+  padding: 7% 15%;
+  text-align: center;
+}
+.feature-box{
+  padding: 10%;
+}
+#testimonials{
+  padding: 5% 10%;
+    text-align: center;
+    background-color:#b8e6bf;
+}
+.promotion{
+  margin-top: auto;
+  background-color: rgb(255,125,0);
+  color: white;
+  font-size: 20px;
+
+}
+p4{
+  color: rgb(255, 125, 0);
+  font-weight: bolder;
+  font-size: 25px;
+}
